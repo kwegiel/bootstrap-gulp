@@ -1,0 +1,23 @@
+{
+    "name": "bootstrap-gulp",
+    "version": "1.0.0",
+    "description": "Gulp dependencies for bootstrap starter",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kwegiel/bootstrap-gulp.git"
+    },
+    "author": "Krzysztof Wegiel",
+    "license": "MIT",
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-imagemin": "^2.3.0",
+        "gulp-sass": "^2.0.4",
+        "gulp-uglifyjs": "^0.6.2",
+        "gulp-webserver": "^0.9.1",
+        "imagemin-pngquant": "^4.2.0"
+    }
+}

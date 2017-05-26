@@ -1,0 +1,1 @@
+!function(e){e(document).ready(function(){e(".side-nav-toggle").on("click",function(){e(this).toggleClass("side-nav-toggled"),e(".side-nav").slideToggle()})})}(jQuery);
